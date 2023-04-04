@@ -82,4 +82,4 @@ figure).
 * March 24: Edit `proposal.md` with basic stats, commit, and push.
 * April 4: Announce your project on Zulip
 * April 5-7: Share among groups in class
-* April 10: Form groups to start group projects
+* April 10: Form groups to start group projects 

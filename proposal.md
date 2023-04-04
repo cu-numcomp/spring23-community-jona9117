@@ -37,7 +37,7 @@ encountered a problem.
 
 ### Notes/concerns/risks
 
-No known risks or concerns at the moment, although the CI testing has been failing.
+No known risks or concerns at the moment, although the CI testing has been failing. They also have a MIT License.
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU

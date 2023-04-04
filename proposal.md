@@ -3,8 +3,7 @@ Please edit this file and push to your repository.
 
 ## Software: FractionalCalculus.jl
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+This Julia package supports complex and comprehensive fractional calculus computing. Using Riemann Liouville sense, this package is able to return estimated values of fractional derivatives and integrals at a high precision. This software is meant for anybody who needs accurate and efficient tools for modeling, analyzing, and simulating complex systems.
 
 ### Stats
 

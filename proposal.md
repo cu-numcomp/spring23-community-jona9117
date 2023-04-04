@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: FractionalCalculus.jl
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
@@ -10,20 +10,20 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |  https://github.com/SciFracX/FractionalCalculus.jl  |
+| Main/documentation website |  http://scifracx.org/FractionalCalculus.jl/dev/  |
+| Year project was started | Nov 5, 2021  |
+| Number of contributors in the past year | 4 |
+| Number of contributors in the lifetime of the project | 4 |
+| Number of distinct affiliations | 1 |
+| Where do development discussions take place? | Github |
+| Typical number of emails/comments per week? |  1 |
+| Typical number of commits per week? | 2-3 |
+| Typical commit size | 3-4 files changed |
+| How does the project accept contributions? | pull requests  |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
@@ -37,12 +37,7 @@ encountered a problem.
 
 ### Notes/concerns/risks
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
+No known risks or concerns at the moment, although the CI testing has been failing.
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
